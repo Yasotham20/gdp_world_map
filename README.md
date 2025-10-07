@@ -118,7 +118,7 @@ This project is for educational use. You are free to modify and share it with pr
 
 ## 🙋‍♀️ Author
 
-**Dharani** – Final-year B.Sc. Computer Science student at Apollo Engineering College, Chennai.
+**Yasotha M** – Final-year BE. Computer Science and Engineering student at Apollo Engineering College, Chennai.
 
 ---
 
